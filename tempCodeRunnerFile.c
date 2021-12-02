@@ -1,1 +1,1 @@
-datetime.year, datetime.month, datetime.day, datetime.ahh, datetime.amm, datetime.bhh, datetime.bmm, event, departments[department]
+printf("\e[1;1H\e[2J");
